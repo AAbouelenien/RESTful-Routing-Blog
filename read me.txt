@@ -1,0 +1,2 @@
+run node app.js
+remember to run mongod and mogose
